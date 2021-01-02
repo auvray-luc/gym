@@ -1,0 +1,97 @@
+BODY
+{
+	PADDING-TOP: 0px;
+	PADDING-RIGHT: 0px;
+    PADDING-LEFT: 50px;
+	PADDING-BOTTOM: 0px;
+	MARGIN: 0px;
+	background-image:url("../images/pilate_3.jpg");
+	background-repeat: no-repeat;
+	
+}
+
+div#bandeau {
+	width:800px;
+	height:50px;
+	/*background-color:#00CCFF;*/
+	
+	}
+
+div#piedpage {
+		width:800px;
+		height:50px;
+		/*background-color:#00CCFF;*/
+		}
+div#pilate {
+	LEFT:50px;
+	TOP: 50px;
+	width:100%;
+	height:350px;
+	color: #1221ac;
+	FONT-FAMILY: Arial;
+	FONT-SIZE:xx-large;
+	font:bold;
+	/*background-color:#FFCC00;*/
+	}
+
+	div#zumba {
+		LEFT:50px;
+		TOP: 50%;
+		width:100%;
+		/*height:50%;*/
+		color: #1221ac;
+		FONT-FAMILY: Arial;
+		FONT-SIZE:xx-large;
+		font:bold;
+		/*background-color:#FFCC00;*/
+		}
+
+
+	div#table1
+	{
+		FONT-SIZE:;
+		LEFT: 10%;
+		width: 100%;
+		/*COLOR: rgb(155, 155, 155);*/
+		COLOR: white;
+		FONT-FAMILY: Arial;
+		POSITION: absolute;
+	}
+
+	div#table2
+	{
+		FONT-SIZE:;
+		LEFT: 10%;
+		width: 100%;
+		text-align: center;
+		
+		
+		COLOR: white;
+		/*COLOR: white;*/
+		
+		
+		FONT-FAMILY: Arial;
+		POSITION: absolute;
+	}
+
+	td { 
+		border-width:0px;
+		border-style:solid; 
+		border-color:whitesmoke;
+		/*border-radius: 20px;*/
+		width:50%;
+	}
+	th { 
+		border-width:0px;
+		border-style:solid; 
+		border-color:whitesmoke;
+/*		border-radius: 20px;*/
+		width:50%;
+	}
+
+	a {
+		color:whitesmoke;
+		/*COLOR: rgb(155, 155, 155);*/
+	}
+	
+
